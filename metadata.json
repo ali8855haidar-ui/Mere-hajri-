@@ -1,0 +1,6 @@
+{
+  "name": "MeriHajiri",
+  "description": "मेरी हाजिरी, मेरी कमाई — Daily attendance, overtime hours, wage calculation, payment ledger, and monthly report tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
